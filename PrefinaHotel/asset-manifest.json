@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Prefina-Hotel/static/css/main.be8d919e.css",
-    "main.js": "/Prefina-Hotel/static/js/main.5e828a54.js",
+    "main.js": "/Prefina-Hotel/static/js/main.4b219779.js",
     "static/media/la-brands-400.svg": "/Prefina-Hotel/static/media/la-brands-400.928495fae14841a0d610.svg",
     "static/media/la-solid-900.svg": "/Prefina-Hotel/static/media/la-solid-900.a813034654b4ff0a0bac.svg",
     "static/media/fa-solid-900.ttf": "/Prefina-Hotel/static/media/fa-solid-900.e615bbcb258550973c16.ttf",
@@ -36,10 +36,10 @@
     "static/media/fa-v4compatibility.woff2": "/Prefina-Hotel/static/media/fa-v4compatibility.afac89562a5301459069.woff2",
     "index.html": "/Prefina-Hotel/index.html",
     "main.be8d919e.css.map": "/Prefina-Hotel/static/css/main.be8d919e.css.map",
-    "main.5e828a54.js.map": "/Prefina-Hotel/static/js/main.5e828a54.js.map"
+    "main.4b219779.js.map": "/Prefina-Hotel/static/js/main.4b219779.js.map"
   },
   "entrypoints": [
     "static/css/main.be8d919e.css",
-    "static/js/main.5e828a54.js"
+    "static/js/main.4b219779.js"
   ]
 }
